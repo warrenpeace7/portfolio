@@ -1,0 +1,21 @@
+
+@import url('https://fonts.google.com/?selection.family=Do+Hyeon');
+
+nav {
+text-align: center;
+text-justify: center;
+background-image: url('http://images.all-free-download.com/images/graphiclarge/grain_wood_background_hd_picture_1_169610.jpg');
+padding: 150px;
+font-family: 'Do Hyeon', sans-serif;
+margin: 0px;
+}
+
+nav a {
+text-decoration-style: none;
+font-size: 30px;
+background-color: gray;
+color: white;
+padding: 75px;
+font-family: 'Do Hyeon', sans-serif;
+
+}
